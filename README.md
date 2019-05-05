@@ -6,7 +6,7 @@ This project is based on the sentiment analysis of any topic by parsing the twee
 - The application performs real time sentiment analysis and plots the live trend graph.
 - It also generates Realtime Positive-Negative Wordclouds.
 - The Model is trained on CNN and LSTM where LSTM performed better.
-- Modules used-
+- Library used-
 1. NLTK
 2. Sklearn
 3. Pandas
