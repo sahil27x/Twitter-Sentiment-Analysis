@@ -27,5 +27,10 @@ This project is based on the sentiment analysis of any topic by parsing the twee
 
 - Demo-
 
+![alt text](https://user-images.githubusercontent.com/26934447/57197187-bb93ca00-6f81-11e9-9df9-5be752addc2e.gif)
+
+
+
+
 
 
